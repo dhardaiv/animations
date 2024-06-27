@@ -1,3 +1,3 @@
-# cube animation
+# cube and torus animation
 
-making a cube animation in C for ece webring
+making cube and torus animations in C for ece webring
